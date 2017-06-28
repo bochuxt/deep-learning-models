@@ -1,5 +1,5 @@
 # Trained image classification models for Keras
-
+https://gab41.lab41.org/850k-images-in-24-hours-automating-deep-learning-dataset-creation-60bdced04275
 This repository contains code for the following Keras models:
 
 - VGG16
